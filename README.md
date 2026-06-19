@@ -1,5 +1,6 @@
 ![Imagem](Simulação(1).png)
-
+<div align="center">
+  
 # Projeto Final - Práticas em Ciências de Dados
 Aluna: Mariana Bueno Cavalcanti
 
