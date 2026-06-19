@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Imagem](Simulação.png)
+  ![Imagem](Simulação(2).png)
 
 
 # Projeto Final - Práticas em Ciências de Dados
