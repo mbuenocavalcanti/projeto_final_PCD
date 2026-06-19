@@ -1,7 +1,7 @@
+![Imagem](Simulação.png)
+
+
 # Projeto Final - Práticas em Ciências de Dados
-
-## Simulação do crescimento de microorganismos em um Quimiostato
-
 Aluna: Mariana Bueno Cavalcanti
 
 Profs. Responsáveis: Dr. Daniel R. Cassar, Dr. James M. Almeida e Dr. Leandro Lemos.
