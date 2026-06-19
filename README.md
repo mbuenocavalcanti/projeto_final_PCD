@@ -2,7 +2,6 @@
 
   ![Imagem](Simulação(1).png)
 
-# Projeto Final - Práticas em Ciências de Dados
 Aluna: Mariana Bueno Cavalcanti
 
 Profs. Responsáveis: Dr. Daniel R. Cassar, Dr. James M. Almeida e Dr. Leandro Lemos.
