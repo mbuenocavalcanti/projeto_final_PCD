@@ -1,4 +1,4 @@
-![Imagem](Simulação.png)
+![Imagem](Simulação(1).pdf)
 
 
 # Projeto Final - Práticas em Ciências de Dados
