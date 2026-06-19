@@ -1,7 +1,9 @@
 # Projeto_final_PCD
 ## Simulação do crescimento de microorganismos em um Quimiostato
 Aluna: Mariana Bueno Cavalcanti
+
 Profs. Responsáveis: Dr. Daniel R. Cassar, Dr. James M. Almeida e Dr. Leandro Lemos.
+
 Trabalho final de Práticas em Ciências de Dados da Ilum Escola de Ciência
 
 ### Introdução
