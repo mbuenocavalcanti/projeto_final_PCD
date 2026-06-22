@@ -18,9 +18,9 @@ Neste trabalho foi desenvolvido um simulador computacional simples utilizando a 
 
 ### Tecnologias Utilizadas:
 
-Python: versão 3.13.7
-Tkinter: versão 8.6 (biblioteca para a interface gráfica)
-Matplotlib: versão 3.10.6 (utilizada para geração de gráficos)
+- Python: versão 3.13.7
+- Tkinter: versão 8.6 (biblioteca para a interface gráfica)
+- Matplotlib: versão 3.10.6 (utilizada para geração de gráficos)
 
 ### Conteúdos do Repositório
 Este repositório possui todos os códigos, no notebook jupyter, necessários para realizar a simulação, bem como um exemplo do resultado da simulção. E ainda a imagem usada no README.
