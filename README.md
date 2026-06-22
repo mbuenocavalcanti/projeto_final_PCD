@@ -16,6 +16,12 @@ Profs. Responsáveis: Dr. Daniel R. Cassar, Dr. James M. Almeida e Dr. Leandro L
 
 Neste trabalho foi desenvolvido um simulador computacional simples utilizando a linguagem Python, com as bibliotecas Tkinter e Matplotlib, para representar o funcionamento de um quimiostato. A interface gráfica permite ao usuário modificar os parâmetros do modelo e acompanhar a evolução do crescimento microbiano e da concentração de substrato por meio de um gráfico dinâmico. Dessa forma, o simulador foi uma ferramenta didática para o estudo da linguagem Python e como as suas aplicações englobam outras áreas da ciência.
 
+### Tecnologias Utilizadas:
+
+Python: versão 3.13.7
+Tkinter: versão 8.6 (biblioteca para a interface gráfica)
+Matplotlib: versão 3.10.6 (utilizada para geração de gráficos)
+
 ### Conteúdos do Repositório
 Este repositório possui todos os códigos, no notebook jupyter, necessários para realizar a simulação, bem como um exemplo do resultado da simulção. E ainda a imagem usada no README.
 
