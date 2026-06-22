@@ -2,11 +2,13 @@
 
   ![Imagem](Simulação(1).png)
 
+
+
 Aluna: Mariana Bueno Cavalcanti
 
 Profs. Responsáveis: Dr. Daniel R. Cassar, Dr. James M. Almeida e Dr. Leandro Lemos.
 
-Trabalho final de Práticas em Ciências de Dados da Ilum Escola de Ciência
+# Trabalho final de Práticas em Ciências de Dados da Ilum Escola de Ciência
 
 </div>
 
@@ -15,7 +17,7 @@ Trabalho final de Práticas em Ciências de Dados da Ilum Escola de Ciência
 Neste trabalho foi desenvolvido um simulador computacional simples utilizando a linguagem Python, com as bibliotecas Tkinter e Matplotlib, para representar o funcionamento de um quimiostato. A interface gráfica permite ao usuário modificar os parâmetros do modelo e acompanhar a evolução do crescimento microbiano e da concentração de substrato por meio de um gráfico dinâmico. Dessa forma, o simulador foi uma ferramenta didática para o estudo da linguagem Python e como as suas aplicações englobam outras áreas da ciência.
 
 ### Conteúdos do Repositório
-Este repositório possui todos os códigos - no notebook jupyter - necessários para realizar a simulação, bem como uma imagem usada no README
+Este repositório possui todos os códigos, no notebook jupyter, necessários para realizar a simulação, bem como um exemplo do resultado da simulção. E ainda a imagem usada no README.
 
 ### Como funciona
 Ao executar o programa em um ambiente compatível com Python, uma interface gráfica é aberta contendo os parâmetros do modelo de quimiostato com valores iniciais pré-definidos. O usuário pode alterar esses parâmetros, como taxa máxima de crescimento (μmax), constante de saturação (Ks), taxa de diluição (D), concentração de substrato de entrada (Sin) e rendimento celular (Y).
